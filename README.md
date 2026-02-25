@@ -8,7 +8,7 @@ This project develops a hybrid disaster forecasting system that combines live me
 The core research contribution is the transformation of a static formula into an adaptive forecasting agent that responds to physical sensor readings and human percieved risk signals extracted from real disaster tweets.
 
 ## System Architecture
-
+```
 Live Weather Data (Open-Meteo API)
         ↓
 Baseline WRI Calculation
@@ -25,6 +25,7 @@ Memory Agent (rolling window + trend detection)
 Real-Time City Alerts
         ↓
 Validation against historical disaster scenarios
+```
 
 ## Data Sources
 
@@ -85,7 +86,7 @@ The system includes a memory-based forecasting agent that:
 3. No API keys required — all data sources are free and open
 
 ## Dependencies
-
+```
 vaderSentiment
 transformers
 torch
@@ -97,3 +98,4 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+```
