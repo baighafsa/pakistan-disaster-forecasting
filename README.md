@@ -74,10 +74,20 @@ The system includes a memory-based forecasting agent that:
   level to generate context-aware alerts
 - Issues alerts across five levels: NORMAL, ADVISORY, WATCH, 
   WARNING, EMERGENCY
-## Dashboard
 
-![Research Dashboard](disaster_dashboard.png)
 
+## Live Data (Auto-Updated Daily)
+
+The system runs automatically every day via GitHub Actions.
+
+| File | Description |
+|------|-------------|
+| [30-day WRI Tracking](data/30day_wri_tracking.csv) | Daily WRI readings for all 8 cities |
+| [Daily Alerts](data/daily_alerts.csv) | Today's alert levels |
+| [Dashboard](data/daily_dashboard.png) | Auto-updated chart |
+
+
+![Daily Dashboard](data/daily_dashboard.png) 
 
 ## How to Run
 
