@@ -1,0 +1,9 @@
+city,date,wind_kmh,rain_mm,baseline_wri,baseline_risk,dynamic_wri,dynamic_risk,panic_score,alert,wri_increase
+Karachi,2026-02-26,18.1,0.0,5.43,LOW,7.32,LOW,0.6964,ADVISORY,1.89
+Lahore,2026-02-26,5.8,0.0,1.74,LOW,2.35,LOW,0.6964,ADVISORY,0.61
+Peshawar,2026-02-26,5.8,0.0,1.74,LOW,2.35,LOW,0.6964,ADVISORY,0.61
+Quetta,2026-02-26,13.6,0.0,4.08,LOW,5.5,LOW,0.6964,ADVISORY,1.42
+Islamabad,2026-02-26,6.9,0.0,2.07,LOW,2.79,LOW,0.6964,ADVISORY,0.72
+Hyderabad,2026-02-26,5.6,0.0,1.68,LOW,2.26,LOW,0.6964,ADVISORY,0.58
+Multan,2026-02-26,9.7,0.0,2.91,LOW,3.92,LOW,0.6964,ADVISORY,1.01
+Rawalpindi,2026-02-26,6.9,0.0,2.07,LOW,2.79,LOW,0.6964,ADVISORY,0.72

@@ -1,0 +1,9 @@
+city,temp_c,wind_kmh,rain_mm,humidity,pressure,condition,status,baseline_wri,baseline_risk,panic_score,multiplier,dynamic_wri,dynamic_risk,wri_increase,pct_change,alert,date
+Karachi,29.8,18.1,0.0,38,1007.3,Clear sky,success,5.43,LOW,0.6964,1.3482,7.32,LOW,1.89,34.8,ADVISORY,2026-02-26
+Lahore,27.0,5.8,0.0,42,982.9,Clear sky,success,1.74,LOW,0.6964,1.3482,2.35,LOW,0.61,35.1,ADVISORY,2026-02-26
+Peshawar,24.2,5.8,0.0,42,968.7,Mainly clear,success,1.74,LOW,0.6964,1.3482,2.35,LOW,0.61,35.1,ADVISORY,2026-02-26
+Quetta,20.7,13.6,0.0,23,838.3,Clear sky,success,4.08,LOW,0.6964,1.3482,5.5,LOW,1.42,34.8,ADVISORY,2026-02-26
+Islamabad,24.6,6.9,0.0,38,949.2,Clear sky,success,2.07,LOW,0.6964,1.3482,2.79,LOW,0.72,34.8,ADVISORY,2026-02-26
+Hyderabad,32.9,5.6,0.0,24,1003.9,Mainly clear,success,1.68,LOW,0.6964,1.3482,2.26,LOW,0.58,34.5,ADVISORY,2026-02-26
+Multan,30.5,9.7,0.0,27,992.7,Clear sky,success,2.91,LOW,0.6964,1.3482,3.92,LOW,1.01,34.7,ADVISORY,2026-02-26
+Rawalpindi,24.7,6.9,0.0,38,951.0,Clear sky,success,2.07,LOW,0.6964,1.3482,2.79,LOW,0.72,34.8,ADVISORY,2026-02-26
