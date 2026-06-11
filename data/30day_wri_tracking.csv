@@ -839,3 +839,11 @@ Islamabad,40.2,6.1,0.0,16.0,942.7,Clear sky,success,1.83,LOW,0.5,1.25,2.29,LOW,0
 Hyderabad,40.1,18.5,0.0,41.0,996.2,Thunderstorm,success,5.55,LOW,0.5,1.25,6.94,LOW,1.39,25.0,NORMAL,2026-06-10
 Multan,41.6,9.8,0.0,29.0,982.5,Clear sky,success,2.94,LOW,0.5,1.25,3.67,LOW,0.73,24.8,NORMAL,2026-06-10
 Rawalpindi,40.8,7.6,0.0,16.0,944.0,Clear sky,success,2.28,LOW,0.5,1.25,2.85,LOW,0.57,25.0,NORMAL,2026-06-10
+Karachi,,,,,,unavailable,error,0.0,LOW,0.5,1.25,0.0,LOW,0.0,0.0,NORMAL,2026-06-11
+Lahore,,,,,,unavailable,error,0.0,LOW,0.5,1.25,0.0,LOW,0.0,0.0,NORMAL,2026-06-11
+Peshawar,,,,,,unavailable,error,0.0,LOW,0.5,1.25,0.0,LOW,0.0,0.0,NORMAL,2026-06-11
+Quetta,,,,,,unavailable,error,0.0,LOW,0.5,1.25,0.0,LOW,0.0,0.0,NORMAL,2026-06-11
+Islamabad,,,,,,unavailable,error,0.0,LOW,0.5,1.25,0.0,LOW,0.0,0.0,NORMAL,2026-06-11
+Hyderabad,,,,,,unavailable,error,0.0,LOW,0.5,1.25,0.0,LOW,0.0,0.0,NORMAL,2026-06-11
+Multan,,,,,,unavailable,error,0.0,LOW,0.5,1.25,0.0,LOW,0.0,0.0,NORMAL,2026-06-11
+Rawalpindi,,,,,,unavailable,error,0.0,LOW,0.5,1.25,0.0,LOW,0.0,0.0,NORMAL,2026-06-11
