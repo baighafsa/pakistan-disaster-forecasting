@@ -1,9 +1,9 @@
 city,date,wind_kmh,rain_mm,baseline_wri,baseline_risk,dynamic_wri,dynamic_risk,panic_score,alert,wri_increase
-Karachi,2026-06-11,,,0.0,LOW,0.0,LOW,0.5,NORMAL,0.0
-Lahore,2026-06-11,,,0.0,LOW,0.0,LOW,0.5,NORMAL,0.0
-Peshawar,2026-06-11,,,0.0,LOW,0.0,LOW,0.5,NORMAL,0.0
-Quetta,2026-06-11,,,0.0,LOW,0.0,LOW,0.5,NORMAL,0.0
-Islamabad,2026-06-11,,,0.0,LOW,0.0,LOW,0.5,NORMAL,0.0
-Hyderabad,2026-06-11,,,0.0,LOW,0.0,LOW,0.5,NORMAL,0.0
-Multan,2026-06-11,,,0.0,LOW,0.0,LOW,0.5,NORMAL,0.0
-Rawalpindi,2026-06-11,,,0.0,LOW,0.0,LOW,0.5,NORMAL,0.0
+Karachi,2026-06-12,19.8,0.0,5.94,LOW,7.43,LOW,0.5,NORMAL,1.49
+Lahore,2026-06-12,21.7,0.0,6.51,LOW,8.14,LOW,0.5,NORMAL,1.63
+Peshawar,2026-06-12,4.5,0.0,1.35,LOW,1.69,LOW,0.5,NORMAL,0.34
+Quetta,2026-06-12,9.3,0.0,2.79,LOW,3.49,LOW,0.5,NORMAL,0.7
+Islamabad,2026-06-12,14.6,0.0,4.38,LOW,5.47,LOW,0.5,NORMAL,1.09
+Hyderabad,2026-06-12,20.6,0.0,6.18,LOW,7.72,LOW,0.5,NORMAL,1.54
+Multan,2026-06-12,18.7,0.0,5.61,LOW,7.01,LOW,0.5,NORMAL,1.4
+Rawalpindi,2026-06-12,15.6,0.0,4.68,LOW,5.85,LOW,0.5,NORMAL,1.17
